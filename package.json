@@ -1,0 +1,12 @@
+{
+  "name": "node-static-server",
+  "version": "1.0.0",
+  "description": "Minimalist node server to serve static web resources ",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "integrtr",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
